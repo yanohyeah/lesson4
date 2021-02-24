@@ -1,0 +1,42 @@
+
+.box01 {
+
+height: 200px;
+width: 200px;
+background-color: #eaf6f6;
+border: solid;
+border-width: 10px;
+border-color: #66bfbf;
+padding: 20;
+color: #f76b8a;
+
+
+}
+
+.box02 {
+
+	height: 200px;
+	width: 200px;
+	background-color: #7f78d2;
+	border: solid;
+	border-width: 20px;
+	border-color: #481380;
+	margin-left: 260px;
+
+}
+
+
+
+.box03 {
+
+	height: 200px;
+	width: 200px;
+	background-color: #FEFF03;
+	border: solid;
+	border-width: 10px;
+	border-color: #000000
+margin-left: 500px;
+	}
+
+
+.body {}
